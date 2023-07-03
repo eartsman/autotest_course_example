@@ -1,0 +1,6 @@
+_LOGIN = "кабинет600"
+_PASSWORD = "кабинет6000"
+_INPUT_LOGIN = "Login"
+_INPUT_PASSWORD = "Password"
+_CHECK_LOGIN = "checkSignInTypeButton"
+_CHECK_PASS = "signInButton"
